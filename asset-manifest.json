@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tsu_hackathon_website/static/css/main.6dc887f2.css",
+    "main.js": "/tsu_hackathon_website/static/js/main.b7b04084.js",
+    "static/media/hackathon.png": "/tsu_hackathon_website/static/media/hackathon.bae5be4cb77573d626f7.png",
+    "index.html": "/tsu_hackathon_website/index.html",
+    "main.6dc887f2.css.map": "/tsu_hackathon_website/static/css/main.6dc887f2.css.map",
+    "main.b7b04084.js.map": "/tsu_hackathon_website/static/js/main.b7b04084.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dc887f2.css",
+    "static/js/main.b7b04084.js"
+  ]
+}
