@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tsu_hackathon_website/static/css/main.6dc887f2.css",
-    "main.js": "/tsu_hackathon_website/static/js/main.aa07ea93.js",
+    "main.css": "/tsu_hackathon_website/static/css/main.a094a6c8.css",
+    "main.js": "/tsu_hackathon_website/static/js/main.5c833eec.js",
     "static/media/hackathon.png": "/tsu_hackathon_website/static/media/hackathon.bae5be4cb77573d626f7.png",
     "index.html": "/tsu_hackathon_website/index.html",
-    "main.6dc887f2.css.map": "/tsu_hackathon_website/static/css/main.6dc887f2.css.map",
-    "main.aa07ea93.js.map": "/tsu_hackathon_website/static/js/main.aa07ea93.js.map"
+    "main.a094a6c8.css.map": "/tsu_hackathon_website/static/css/main.a094a6c8.css.map",
+    "main.5c833eec.js.map": "/tsu_hackathon_website/static/js/main.5c833eec.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dc887f2.css",
-    "static/js/main.aa07ea93.js"
+    "static/css/main.a094a6c8.css",
+    "static/js/main.5c833eec.js"
   ]
 }
